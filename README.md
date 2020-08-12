@@ -1,11 +1,8 @@
-# DataQuest-Projects
+## Project #1: Analysis of Resistor Values
+This program allows users to input ther resistor values withtin a specified range and is built to range and character proof stray user inputs that are not allowed or in range. it allows user to check for statistical data on resistor values inputed and to re-run the program again once they are done.
+Concepts explored: functions, for loops, while & do while loops, switch-case.
+Functions, methods, and properties used: char(), float(), int()
 
-This repository is a collection of my projects while learning from Dataquest.io.
-The projects below will serve as reference notes for myself and anyone else who is interested. These projects showed my thought process via the comments made through out the code
-
-## Project #1: Exploring US births
-Concepts explored: lists, dictionaries, functions, for loops
-Functions, methods, and properties used: .read(), open(), .split(), .append(), int()
 
 ## Project #2: Exploring Gun Deaths in the US
 Concepts explored: list comprehension, datetime module, csv module
