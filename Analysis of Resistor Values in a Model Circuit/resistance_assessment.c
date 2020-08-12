@@ -1,4 +1,4 @@
-/*MY REG Number: 170171168*//*3fca4542-30fa-46aa-ab53-24d992da2a46.*/
+/*MY REG Number: */
 #include <stdio.h>
 #include <math.h>
 #define ten 10
@@ -49,7 +49,7 @@ b3[g]=var;
 
 void display (float bv[], int nv );
 
-/*idea gotten from lecture 10 of the handout written by "Peter Judd"*/
+
 
 int main (void)
 {
